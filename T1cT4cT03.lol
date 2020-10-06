@@ -1,4 +1,9 @@
 HAI 1.3
+
+    VISIBLE "Hai, W3lCom3 to T1cT4cT03 made by Neel Lodha and Tarush Sonakya:)In each turn u have to enter a number from [1-9], where each numbers denotes the cell:)"
+    VISIBLE "The grid bellow shows which numbers denotes which cells:)1|2|3|:)4|5|6|:)7|8|9| :):)"
+    VISIBLE "Well glhf:):)"
+
     BTW the main board intialization ----
     I HAS A board ITZ A BUKKIT
     IM IN YR loop UPPIN YR index TIL BOTH SAEM index AN 9
@@ -17,7 +22,8 @@ HAI 1.3
         IM OUTTA YR loop
         VISIBLE ":)"!
     IF U SAY SO
-
+    
+    BTW function to check if its a win or not
     HOW IZ I checkwin YR board
         I HAS A won ITZ FAIL
 
@@ -104,9 +110,9 @@ HAI 1.3
             I IZ print YR board MKAY
             BOTH SAEM MOD OF movenumber AN 2 AN 1, O RLY?
                 YA RLY
-                    VISIBLE "PLAYER 1 ITS UR TURN MOVE FAST DUMBOOOO SLOWPOKE, ENTER CELL(0-9): "!
+                    VISIBLE "PLAYER 1 ITS UR TURN, ENTER CELL(1-9): "!
                 NO WAI
-                    VISIBLE "PLAYER 2 ITS UR TURN MOVE FAST DUMBOOOO SLOWPOKE, ENTER CELL(0-9): "!
+                    VISIBLE "PLAYER 2 ITS UR TURN, ENTER CELL(1-9): "!
             OIC  
             GIMMEH index
             index IS NOW A NUMBR
@@ -162,6 +168,4 @@ HAI 1.3
     OIC
     
 KTHXBYE
-
-
 
