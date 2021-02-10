@@ -1,6 +1,6 @@
 HAI 1.3
 
-    VISIBLE "Hai, W3lCom3 to T1cT4cT03 made by Neel Lodha and Tarush Sonakya:)In each turn u have to enter a number from [1-9], where each numbers denotes the cell:)"
+    VISIBLE "Hai, W3lCom3 to T1cT4cT03 made by Neel Lodha:)In each turn u have to enter a number from [1-9], where each numbers denotes the cell:)"
     VISIBLE "The grid bellow shows which numbers denotes which cells:)1|2|3|:)4|5|6|:)7|8|9| :):)"
     VISIBLE "Well glhf:):)"
 
